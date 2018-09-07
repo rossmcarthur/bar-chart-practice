@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.user-index {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: 100%;
+  margin: 50px auto;
+  overflow: wrap;
+  flex-direction: row;
+  flex-flow: row wrap;
+}
+
+.user-index-item {
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
